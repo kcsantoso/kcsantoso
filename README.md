@@ -1,7 +1,7 @@
 ### Hi, I'm Karina and welcome to my portfolio! 👋
 
 - 🎓 I am currently a Math of Computation & Statistics Double Major @UCLA, graduating December 2022.
-- 💻 Where I've worked: Symbium, Amazon (AWS), UCLA Athletics, UCLA Mathematics
+- 💻 Where I've worked: Symbium, Amazon (AWS), UCLA Athletics, UCLA Mathematics, Juni Learning
 - 🌱 Where I've done research: UCLA Computational & Applied Mathematics, Clemson University Mathematical & Statistical Sciences
 - 🔭 I’m currently working on learning: Hadoop, Spark, PySpark, more web development
 - 💬 Languages: Python (pandas, pytorch, sklearn, matplotlib, etc), R, C++, JavaScript, SQL, HTML, MATLAB, Swift, LaTeX
