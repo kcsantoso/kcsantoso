@@ -8,5 +8,4 @@
 - 🛠 Technologies: AWS (Athena, SageMaker, QuickSight), PowerBI, Postgres, Git, Tableau
 - 📫 Contact me at: karina@santoso.us
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcsantoso&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcsantoso&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
